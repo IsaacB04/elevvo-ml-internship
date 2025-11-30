@@ -33,7 +33,7 @@ Main steps:
 
 - Elevvo_Task_2_customer_segmentation.ipynb — Complete notebook with clustering workflow
 - Mall_Customers.csv — Dataset used for customer segmentation
-- elevvo_Task_2_customer_segmentation.py
+- elevvo_task_2_customer_segmentation.py
 
 **How to Run**
 
