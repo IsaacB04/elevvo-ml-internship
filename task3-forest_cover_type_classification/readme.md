@@ -31,7 +31,6 @@ Main steps:
 **Files in this Folder**
 - Elevvo_Task_3_Forest_Cover_Type_Classification.ipynb — Full notebook with preprocessing, modeling, and evaluation
 - elevvo_task_3_forest_cover_type_classification.py
-- covtype.csv — Covertype dataset used for training
 
 **How to Run**
 
