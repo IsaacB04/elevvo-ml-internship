@@ -5,60 +5,43 @@ This task focuses on building a regression model to predict students' exam score
 **Description**
 
 Dataset used: Student Performance Factors (Kaggle)
-
 Goal: Build a predictive model for students’ exam scores
-
 Main steps:
-
-Perform data cleaning and preprocessing
-
-Conduct basic data visualization and explore correlations
-
-Split the dataset into training and testing sets
-
-Train a Linear Regression model
-
-Evaluate model performance using appropriate metrics
-
-Visualize predictions vs true values
+- Perform data cleaning and preprocessing
+- Conduct basic data visualization and explore correlations
+- Split the dataset into training and testing sets
+- Train a Linear Regression model
+- Evaluate model performance using appropriate metrics
+- Visualize predictions vs true values
 
 **Tools & Libraries**
 
-Python
-
-Pandas
-
-Matplotlib
-
-Scikit-learn
+- Python
+- Pandas
+- Matplotlib
+- Scikit-learn
 
 **Covered Topics**
 
-Regression
-
-Evaluation Metrics (MAE, MSE, RMSE, R²)
-
-Data Visualization
+- Regression
+- Evaluation Metrics (MAE, MSE, RMSE, R²)
+- Data Visualization
 
 **Files in this Folder**
 
-task1.ipynb — Full notebook with analysis, model training, and results
-
-dataset.csv (if allowed) — Student performance dataset
+- ElevvoTask_1_Student_Score_Prediction.ipynb — Full notebook with analysis, model training, and results
+- StudentPerformanceFactors.csv
+- elevvotask_1_student_score_prediction.py
 
 **How to Run**
 
-Install required libraries:
-
+- Install required libraries:
 pip install pandas matplotlib scikit-learn
 
+- Open the notebook:
+jupyter notebook ElevvoTask_1_Student_Score_Prediction.ipynb
 
-Open the notebook:
-
-jupyter notebook task1.ipynb
-
-
-Run all cells to reproduce the results.
+- Run all cells to reproduce the results.
 
 **Model Summary**
 
